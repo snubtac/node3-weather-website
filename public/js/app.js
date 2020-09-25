@@ -1,5 +1,3 @@
-console.log('Client side javascript is loaded!')
-
 // Use fetch API (a client side javascript i.e., won't work in node)
 
 const weatherForm = document.querySelector('form');
